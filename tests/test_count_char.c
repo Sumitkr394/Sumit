@@ -1,5 +1,4 @@
-#include <check.h>
-#include "../src/count_char.h" // Include the factorial function`
+#include <count_char.h> // Include the factorial function`
 #include <stdio.h>
 
 START_TEST(test_count_char)

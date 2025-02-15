@@ -1,5 +1,4 @@
-#include <check.h>
-#include "../src/prime.h" // Include the factorial function`
+#include <prime.h> // Include the factorial function`
 #include <stdio.h>
 #include <stdbool.h>
 

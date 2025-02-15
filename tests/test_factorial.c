@@ -1,5 +1,4 @@
-#include <check.h>
-#include "../src/factorial.h" // Include the factorial function`
+#include <factorial.h> // Include the factorial function`
 #include <stdio.h>
 
 START_TEST(test_factorial)

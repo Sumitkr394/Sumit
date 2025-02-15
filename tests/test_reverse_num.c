@@ -1,5 +1,4 @@
-#include <check.h>
-#include "../src/reverse_num.h" // Include the factorial function`
+#include <reverse_num.h> // Include the factorial function`
 #include <stdio.h>
 
 START_TEST(test_reverse)

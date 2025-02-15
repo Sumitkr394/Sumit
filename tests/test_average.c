@@ -1,5 +1,4 @@
-#include <check.h>
-#include "../src/average.h" // Include the factorial function`
+#include <average.h> // Include the factorial function`
 #include <stdio.h>
 
 START_TEST(test_average)
